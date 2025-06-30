@@ -8,108 +8,96 @@ export const dialogueData = {
               Each lab holds interactive items and fascinating discoveries.`,
   
   gotoboss:`Time to face the boss!`,
-  boss:`🧪 Boss Challenge Quiz: Living and Non-Living Things
+  boss:` 
 
 🔥 You have encountered the Boss!
-🎯 Time to prove what you’ve learned about Life Science!
+🎯 Time to prove what you’ve learned.
 
 💥 Defeat the boss by answering all 10 correctly! Good luck, scientist!
+1. What is the main function of the mitochondria in a cell?  
+- A) To store DNA  
+- B) To produce energy  
+- C) To control cell division  
+- D) To make proteins  
 
-1. Which of these characters is a living thing?
+2. A frog undergoes which type of development?  
+- A) Direct development  
+- B) Photosynthesis  
+- C) Metamorphosis  
+- D) Mutation  
 
-A) 🐰 Rabbit
-B) 🗺️ Map Prop
-C) 📖 Book Shelf
+3. What type of energy is stored in food?  
+- A) Thermal energy  
+- B) Chemical energy  
+- C) Kinetic energy  
+- D) Nuclear energy  
 
+4. Which of the following objects is a conductor of electricity?  
+- A) Plastic spoon  
+- B) Wooden ruler  
+- C) Copper wire  
+- D) Rubber band  
 
-2. What makes the 🌳 Tree a living thing?
+5. Why does the Moon appear to change shape during the month?  
+- A) It spins too fast  
+- B) Clouds block it  
+- C) It’s going through phases  
+- D) It is shrinking  
 
-A) It stands still all day
-B) It holds bird nests
-C) It grows and makes oxygen
-D) It's green
+6. In a mathematical function y = mx + c, what does 'm' represent?  
+- A) The y-intercept  
+- B) The slope or gradient  
+- C) The x-value  
+- D) The area  
 
+7. Which natural disaster is measured using the Richter scale?  
+- A) Hurricane  
+- B) Flood  
+- C) Earthquake  
+- D) Tornado  
 
-3. Why is the ☠️ Skeleton considered non-living?
+8. What’s the purpose of chlorophyll in plants?  
+- A) To store water  
+- B) To absorb sunlight  
+- C) To protect from pests  
+- D) To make soil  
 
-A) It's scary
-B) It no longer eats, grows, or breathes
-C) It moves at night
-D) It used to be part of a living thing
+9. Which organ in the human body filters blood and produces urine?  
+- A) Lungs  
+- B) Stomach  
+- C) Kidneys  
+- D) Heart  
 
+10. What term is used for a push or pull on an object?  
+- A) Force  
+- B) Friction  
+- C) Motion  
+- D) Weight  
 
-4. Which of these objects is NOT alive and NEVER was?
+`,
 
-A) 🖍️ Chalk Board
-B) 🐸 Frog
-C) 👩‍🏫 Teacher
-D) 📚 Student
-
-
-5. Which of these is an example of a living organism?
-
-A) 🐝 Bee
-B) 🪑 Chair
-C) 🧊 Ice
-D) 📱 Smartphone
-
-
-6. How do plants and animals differ in terms of energy production?
-
-A) Animals make their own food, plants don’t
-B) Plants make their own food, animals don’t
-C) Both make their own food
-D) Neither make their own food
-
-
-7. Which item below can store knowledge, but is not alive?
-
-A) 📚 Book Shelf
-B) 👩‍🏫 Teacher
-C) 📚 Student
-D) 🐸 Frog
-
-
-8. Which of these is a characteristic of living organisms?
-
-A) Ability to move without external help
-B) Ability to reproduce
-C) Ability to be made of plastic
-D) Ability to always stay in one place
-
-9. Which of these objects shows the difference between living and non-living things?
-
-A) 🌻 Flower
-B) 🚗 Car
-C) 🦋 Butterfly
-D) 🏠 House
-
-
-10. Which of the following is true for all living things?
-
-A) They can think and make decisions
-B) They need energy to survive
-C) They only live for one year
-D) They can’t reproduce`,
   // Living Things  
-  "rabbit": "🐰 Rabbit - Hop hop! I'm alive because I breathe, eat, and grow!",
-    "frog": "🐸 Frog - Ribbit! I change from a tadpole to a frog—that's how I grow!",
-    "tree": "🌳 Tree - I grow from a tiny seed and make oxygen for all living things!",
-    "teacher": "👩‍🏫 Teacher - I help students learn and grow their knowledge!",
-    "student1": "📚 Student 1 - I love exploring science! Learning helps me grow!",
-    "student2": "🎉 Friend - I eat, move, and feel emotions—that means I'm alive!",
-    "carrot": "🥕 Carrot - I grow underground and need water and sunlight to survive—that's what makes me alive!",
-    "mushroom": "🍄 Mushroom - I might look like a plant, but I don’t have leaves! I grow and spread spores, which makes me alive!",
+  
+    "rabbit": "🐰 Rabbit – I’m a mammal known for fast reproduction. Did you know I have nearly 360° vision and can detect predators without moving my head?",
+    "frog": "🐸 Frog – I breathe through my skin and lungs. In Biology, I show complete metamorphosis: egg → tadpole → adult. Amphibians are environmental indicators too!",
+    "tree": "🌳 Tree – I absorb CO₂ and release oxygen. A mature tree can store over 20kg of carbon per year, contributing to climate regulation.",
+    "teacher": "👩‍🏫 Teacher – I’m a living human sharing knowledge, and I represent social structures and communication in subjects like Life Orientation and Psychology.",
+    "student1": "🧠 Student 1 – I use neurons and synapses to learn! Fun fact: your brain uses 20% of the body’s energy, even at rest.",
+    "student2": "🎓 Student 2 – As a teenager, I’m going through adolescence, a key concept in Human Reproduction and Psychology.",
+    "carrot": "🥕 Carrot – Rich in beta-carotene, I convert to vitamin A in the body. In Natural Sciences, I’m used to study root vegetables and nutrient absorption.",
+    "mushroom": "🍄 Mushroom – I'm a decomposer! Unlike plants, I don’t photosynthesize. I recycle dead matter into soil nutrients—vital to the food web!",
+
+  
  
   // Non-Living Things 🏠📖🎯  
-  "bookShelf1": "📚 Book Shelf 1 - I hold books full of knowledge, but I don’t grow or move—so I’m non-living.",
-    "bookShelf2": "📖 Book Shelf 2 - Books can teach you about life, but they don’t breathe or change on their own.",
-    "bookShelf3": "📖 Book Shelf 3 - Even if I store important facts, I don’t eat or drink—so I am not alive.",
-    "mapProp": "🗺️ Map Prop - I show locations, but I don’t grow, breathe, or need food.",
-    "chalkBoard": "🖍️ Chalk Board - Teachers write on me with chalk, but I don’t move on my own!",
-    "scienceBoard": "🔬 Science Board - I display cool science facts, but I don’t grow or react—so I’m not alive.",
-    "skeloton": "☠️ Skeleton - I may look like something alive, but I don’t eat or grow anymore!",
-    "shelfs": "🗄️ Shelves - I store things, but I don’t need food or air like living things do.",
-    "desk": "💺 Desk - I help students work, but I don’t eat, drink, or grow—so I’m not living.",
-    "rock": "🪨 Rock - I sit still and don’t grow or change on my own. That makes me a non-living thing!"
+  "bookShelf1": "📚 Book Shelf 1 – I store information, but I have no cells or metabolism. Think of me in terms of design and materials in Technology.",
+  "bookShelf2": "📖 Book Shelf 2 – In Physical Science, I have mass and take up space, but I don’t grow or use energy. I'm an example of matter without life.",
+  "bookShelf3": "📖 Book Shelf 3 – Fun fact: in civil engineering, we calculate my load-bearing capacity based on material density and volume.",
+  "mapProp": "🗺️ Map – I help with spatial awareness in Geography. Even though I can show elevation and terrain, I don’t adapt or react—non-living!",
+  "chalkBoard": "🖍️ Chalk Board – Used for centuries in classrooms, I'm a non-living object but critical in the evolution of education tech!",
+  "scienceBoard": "🔬 Science Board – I showcase data and hypotheses. In scientific method terms, I'm a tool for communication, not a living participant.",
+  "skeloton": "☠️ Skeleton – I may be from something once alive, but now I’m inert. In Biology, I help learners study structure and support in vertebrates.",
+  "shelfs": "🗄️ Shelves – I don’t have DNA, but I help store lab equipment, making me useful in practical science setups.",
+  "desk": "💺 Desk – My surface area can be calculated in m². I’m a static, non-living object, but I support learning every day!",
+  "rock": "🪨 Rock – I’m a solid mixture of minerals, studied in Geology. Some rocks like pumice can float, and others like granite form deep in the Earth’s crust!",
   }
